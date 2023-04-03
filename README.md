@@ -12,8 +12,8 @@ Note: Bot is deployed on contact page
 Lifestyle
 
 
-### Project Title :
-E-Commerce Website with FAQ Bot
+<!-- ### Project Title : -->
+<!-- E-Commerce Website with FAQ Bot -->
 
 
 ### Problem Statement/Opportunity :
