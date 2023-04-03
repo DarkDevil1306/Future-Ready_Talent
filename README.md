@@ -1,6 +1,6 @@
 # <a href="https://ashy-forest-0978d2910.azurestaticapps.net/index.html">E-Commerce Website with FAQ Bot</a>
 
-This is 10 Page E-commerce Front End website design
+This is Page E-commerce Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
