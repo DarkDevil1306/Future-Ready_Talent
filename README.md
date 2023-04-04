@@ -1,4 +1,4 @@
-# <a href="https://ashy-forest-0978d2910.azurestaticapps.net/index.html">E-Commerce Website with FAQ Bot</a>
+# <a href="https://darkdevil1306.github.io/Future-Ready_Talent/">E-Commerce Website with FAQ Bot</a>
 
 This is Page E-commerce Front End website design
 
