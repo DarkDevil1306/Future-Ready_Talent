@@ -13,7 +13,7 @@ Lifestyle
 
 
 <!-- ### Project Title : -->
-<!-- E-Commerce Website with FAQ Bot -->
+E-Commerce Website with FAQ Bot
 
 
 ### Problem Statement/Opportunity :
