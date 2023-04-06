@@ -2,7 +2,7 @@
 
 This is Page E-commerce Front End website design
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+Web Technologies used: HTML, CSS, JS, Bootstrapaccha
 
 IDE: VS-Code
 
